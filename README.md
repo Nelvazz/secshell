@@ -1,4 +1,3 @@
-# secshell
 ```coffeescript
 > sudo apt install secshell
 Reading package lists... Done
